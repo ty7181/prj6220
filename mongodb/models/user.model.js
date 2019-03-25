@@ -5,19 +5,19 @@ const config = require('../config/database');
 // User Schema
 const UserSchema = mongoose.Schema({
     RaterNumber: {
-        type: String,
+        type: Integer,
         required: true
     },
     ReteeNumber: {
-        type: String,
+        type: Integer,
         required: true
     },
     Rating: {
-        type: String,
+        type: Integer,
         required: true
     },
     TimeStamp: {
-        type: String,
+        type: Integer,
         required: true
     },
 });
