@@ -1,6 +1,6 @@
 # prj6220
 This is created for Project 6220
-Graph Database Benchmark : Neo4j vs ArangoDB vs MongoDB vs JanusGraph 
+Graph Database Benchmark : Neo4j vs ArangoDB vs MongoDB vs OrientDB 
 
     same datasets
     same query workload
