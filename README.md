@@ -1,6 +1,6 @@
 # prj6220
 This is created for Project 6220
-Graph Database Benchmark : Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb
+Graph Database Benchmark : Neo4j vs ArangoDB vs MongoDB vs JanusGraph 
 
     same datasets
     same query workload
